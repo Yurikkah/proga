@@ -1,1 +1,3 @@
 # proga
+# mir
+# freedom
